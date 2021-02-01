@@ -16,7 +16,7 @@ npm install - install all components
 1. Open command prompt
 2. cd to file directory.
 3. cd client directory
-   4 npm start
+4. npm start
 
 ##### PORTS
 
