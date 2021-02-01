@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const cors = require("cors");
 var axios = require("axios").default;
 const MongoClient = require('mongodb').MongoClient;
-const uri = "mongodb+srv://deezerApp:!Wimpie@01@cluster0.hwejv.mongodb.net/mytable?retryWrites=true&w=majority"
+
 const app = express();
 const port = process.env.PORT || 5000;
 var array=[];
